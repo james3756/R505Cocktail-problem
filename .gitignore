@@ -1,0 +1,13 @@
+# Qt Creator / qmake
+build*/
+*.pro.user
+*.pro.user.*
+.qmake.stash
+Makefile*
+debug/
+release/
+
+# fichiers compilés
+*.o
+*.obj
+*.exe
